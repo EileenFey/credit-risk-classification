@@ -12,4 +12,5 @@ Results
   * The model is 99% accurate at prdicting creditworthiness of potential loan applicants.
 
 Summary
-  The model is very accurate at making predictions however it is more accurate with healthy loans than it is with high risk loans. I would reccomend this model for use with the suggestion that the dataset include more high risk loans because this data included more data points for healthy loans therefore the precision of the high risk loans was impacted. 
+
+The model is very accurate at making predictions however it is more accurate with healthy loans than it is with high risk loans. I would reccomend this model for use with the suggestion that the dataset include more high risk loans because this data included more data points for healthy loans therefore the precision of the high risk loans was impacted. 
